@@ -67,15 +67,6 @@
     </td>
    
   </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/yourusername/Minesweeper">Minesweeper</a></h4>
-      <p>A simple minesweeper game in C++</p>
-      <p><img src="https://img.shields.io/badge/-C++-blue" /></p>
-    </td>
-  
-  </tr>
 </table>
 
 

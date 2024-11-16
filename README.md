@@ -2,8 +2,7 @@
 
 🌱  I’m a fourth-year software engineering student.
 
-📄 [Download my Resume](https://github.com/RazielSabati/RazielSabati/blob/main/RAZIEL%20SABATI%20CV%20.pdf)
-
+📄 [Download my Resume](https://github.com/RazielSabati/RazielSabati/raw/main/RAZIEL%20SABATI%20CV%20.pdf)
 
 ---
 

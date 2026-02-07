@@ -6,8 +6,7 @@
 
 🚀 Passionate about bridging the gap between hardware and software through efficient, safety-critical code.
 
-📄 [Download my updated Resume](https://github.com/RazielSabati/RazielSabati/raw/main/RAZIEL%20SABATI%20CV%20.pdf)
-
+📄 [Download my updated Resume](https://github.com/RazielSabati/RazielSabati/blob/main/RAZIEL%20SABATI%20CV%20.pdf?raw=true)
 ---
 
 ## Connect with Me
